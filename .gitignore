@@ -3,6 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ren'Py files
+errors.txt
+log.txt
+# Ren'Py bytecode
+*.rpyb
+*.rpyc
+*.rpym
+*.rpymc
+*.save
+persistent
+
 # C extensions
 *.so
 
